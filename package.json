@@ -1,6 +1,6 @@
 {
-  "name": "ytpl",
-  "version": "0.0.0-development",
+  "name": "skt-ytpl",
+  "version": "1.0.0",
   "description": "Simple package to resolve YouTube playlists - no strings attached.",
   "keywords": [
     "youtube",
@@ -14,16 +14,16 @@
     "pagination",
     "promise"
   ],
-  "homepage": "https://github.com/TimeForANinja/node-ytpl#readme",
+  "homepage": "https://github.com/sakkuntyo/skt-ytpl#readme",
   "bugs": {
-    "url": "https://github.com/TimeForANinja/node-ytpl/issues"
+    "url": "https://github.com/sakkuntyo/skt-ytpl/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TimeForANinja/node-ytpl.git"
+    "url": "git://github.com/sakkuntyo/node-ytpl.git"
   },
   "license": "MIT",
-  "author": "Tobias Kutscha (https://github.com/TimeForANinja)",
+  "author": "Daisuke Sasaki (https://github.com/sakkuntyo)",
   "main": "./lib/main.js",
   "types": "./typings/index.d.ts",
   "files": [
